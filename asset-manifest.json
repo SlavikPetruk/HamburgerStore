@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.500cff94.chunk.css",
-    "main.js": "/static/js/main.bf6a74b0.chunk.js",
-    "main.js.map": "/static/js/main.bf6a74b0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cf8cab74.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cf8cab74.js.map",
-    "static/js/2.618b884e.chunk.js": "/static/js/2.618b884e.chunk.js",
-    "static/js/2.618b884e.chunk.js.map": "/static/js/2.618b884e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e8a67acb49326ae66d9a9573473765ec.js": "/precache-manifest.e8a67acb49326ae66d9a9573473765ec.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.500cff94.chunk.css.map": "/static/css/main.500cff94.chunk.css.map",
-    "static/media/style.css": "/static/media/up.551b5c6b.svg"
+    "main.css": "/HamburgerStore/static/css/main.6089cdbd.chunk.css",
+    "main.js": "/HamburgerStore/static/js/main.8fbcd02c.chunk.js",
+    "main.js.map": "/HamburgerStore/static/js/main.8fbcd02c.chunk.js.map",
+    "runtime-main.js": "/HamburgerStore/static/js/runtime-main.5bdacc43.js",
+    "runtime-main.js.map": "/HamburgerStore/static/js/runtime-main.5bdacc43.js.map",
+    "static/js/2.00c4c231.chunk.js": "/HamburgerStore/static/js/2.00c4c231.chunk.js",
+    "static/js/2.00c4c231.chunk.js.map": "/HamburgerStore/static/js/2.00c4c231.chunk.js.map",
+    "index.html": "/HamburgerStore/index.html",
+    "precache-manifest.587fd25aeb3780269c564a7b7ea18550.js": "/HamburgerStore/precache-manifest.587fd25aeb3780269c564a7b7ea18550.js",
+    "service-worker.js": "/HamburgerStore/service-worker.js",
+    "static/css/main.6089cdbd.chunk.css.map": "/HamburgerStore/static/css/main.6089cdbd.chunk.css.map",
+    "static/media/style.css": "/HamburgerStore/static/media/up.551b5c6b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf8cab74.js",
-    "static/js/2.618b884e.chunk.js",
-    "static/css/main.500cff94.chunk.css",
-    "static/js/main.bf6a74b0.chunk.js"
+    "static/js/runtime-main.5bdacc43.js",
+    "static/js/2.00c4c231.chunk.js",
+    "static/css/main.6089cdbd.chunk.css",
+    "static/js/main.8fbcd02c.chunk.js"
   ]
 }
