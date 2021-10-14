@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/HamburgerStore/static/css/main.6089cdbd.chunk.css",
-    "main.js": "/HamburgerStore/static/js/main.ff4ce9d4.chunk.js",
-    "main.js.map": "/HamburgerStore/static/js/main.ff4ce9d4.chunk.js.map",
+    "main.js": "/HamburgerStore/static/js/main.3012f7dc.chunk.js",
+    "main.js.map": "/HamburgerStore/static/js/main.3012f7dc.chunk.js.map",
     "runtime-main.js": "/HamburgerStore/static/js/runtime-main.5bdacc43.js",
     "runtime-main.js.map": "/HamburgerStore/static/js/runtime-main.5bdacc43.js.map",
-    "static/js/2.a42a989c.chunk.js": "/HamburgerStore/static/js/2.a42a989c.chunk.js",
-    "static/js/2.a42a989c.chunk.js.map": "/HamburgerStore/static/js/2.a42a989c.chunk.js.map",
+    "static/js/2.8dfca25e.chunk.js": "/HamburgerStore/static/js/2.8dfca25e.chunk.js",
+    "static/js/2.8dfca25e.chunk.js.map": "/HamburgerStore/static/js/2.8dfca25e.chunk.js.map",
     "index.html": "/HamburgerStore/index.html",
-    "precache-manifest.54267acc9942a2b3cf109dbf83ffb3f7.js": "/HamburgerStore/precache-manifest.54267acc9942a2b3cf109dbf83ffb3f7.js",
+    "precache-manifest.1a2fac5aacdf3d741827cc27a172a4ae.js": "/HamburgerStore/precache-manifest.1a2fac5aacdf3d741827cc27a172a4ae.js",
     "service-worker.js": "/HamburgerStore/service-worker.js",
     "static/css/main.6089cdbd.chunk.css.map": "/HamburgerStore/static/css/main.6089cdbd.chunk.css.map",
     "static/media/style.css": "/HamburgerStore/static/media/up.551b5c6b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5bdacc43.js",
-    "static/js/2.a42a989c.chunk.js",
+    "static/js/2.8dfca25e.chunk.js",
     "static/css/main.6089cdbd.chunk.css",
-    "static/js/main.ff4ce9d4.chunk.js"
+    "static/js/main.3012f7dc.chunk.js"
   ]
 }
