@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afb478d549beeeb301ec34871c7be70e",
+    "revision": "76e7844ad691368921be9321f2738ba6",
     "url": "/HamburgerStore/index.html"
   },
   {
-    "revision": "055f67d080f9cbdd3b46",
+    "revision": "7e621f2c92d49639563a",
     "url": "/HamburgerStore/static/css/main.6089cdbd.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HamburgerStore/static/js/2.a42a989c.chunk.js"
   },
   {
-    "revision": "055f67d080f9cbdd3b46",
-    "url": "/HamburgerStore/static/js/main.37d3b9d1.chunk.js"
+    "revision": "7e621f2c92d49639563a",
+    "url": "/HamburgerStore/static/js/main.d0c38d89.chunk.js"
   },
   {
     "revision": "a5c0f887c9bd6cc86024",
