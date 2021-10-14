@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HamburgerStore/static/css/main.6089cdbd.chunk.css",
-    "main.js": "/HamburgerStore/static/js/main.d0c38d89.chunk.js",
-    "main.js.map": "/HamburgerStore/static/js/main.d0c38d89.chunk.js.map",
+    "main.js": "/HamburgerStore/static/js/main.ff4ce9d4.chunk.js",
+    "main.js.map": "/HamburgerStore/static/js/main.ff4ce9d4.chunk.js.map",
     "runtime-main.js": "/HamburgerStore/static/js/runtime-main.5bdacc43.js",
     "runtime-main.js.map": "/HamburgerStore/static/js/runtime-main.5bdacc43.js.map",
     "static/js/2.a42a989c.chunk.js": "/HamburgerStore/static/js/2.a42a989c.chunk.js",
     "static/js/2.a42a989c.chunk.js.map": "/HamburgerStore/static/js/2.a42a989c.chunk.js.map",
     "index.html": "/HamburgerStore/index.html",
-    "precache-manifest.2e6f3b3fa594e19d749037baa1ed8dc7.js": "/HamburgerStore/precache-manifest.2e6f3b3fa594e19d749037baa1ed8dc7.js",
+    "precache-manifest.54267acc9942a2b3cf109dbf83ffb3f7.js": "/HamburgerStore/precache-manifest.54267acc9942a2b3cf109dbf83ffb3f7.js",
     "service-worker.js": "/HamburgerStore/service-worker.js",
     "static/css/main.6089cdbd.chunk.css.map": "/HamburgerStore/static/css/main.6089cdbd.chunk.css.map",
     "static/media/style.css": "/HamburgerStore/static/media/up.551b5c6b.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5bdacc43.js",
     "static/js/2.a42a989c.chunk.js",
     "static/css/main.6089cdbd.chunk.css",
-    "static/js/main.d0c38d89.chunk.js"
+    "static/js/main.ff4ce9d4.chunk.js"
   ]
 }
